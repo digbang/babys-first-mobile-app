@@ -1,0 +1,6 @@
+module Pods_Baby_BabyTests {
+  umbrella header "Pods-Baby-BabyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
